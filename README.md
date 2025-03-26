@@ -49,7 +49,3 @@ The goal of this project is to automate the loan eligibility prediction for Drea
 
 #### Future Improvements:
 Potential improvements include advanced ensemble techniques, further feature engineering (e.g., income-to-loan ratios), and experimenting with other models like XGBoost.
-
----
-
-This description gives a clear overview of the process, methods, and improvements made to increase the model's performance. Let me know if you’d like to add any further details!
